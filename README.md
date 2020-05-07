@@ -7,17 +7,17 @@
 </p>
 
 <p align="center">
-    <a href="#Summary">Summary</a>
+    <a href="#summary">Summary</a>
     •
-    <a href="#Setup">Setup</a>
+    <a href="#setup">Setup</a>
     •
-    <a href="#Usage">Usage</a>
+    <a href="#usage">Usage</a>
     •
-    <a href="#Examples">Examples</a>
+    <a href="#examples">Examples</a>
     •
-    <a href="#Benchmark">Benchmark</a>
+    <a href="#benchmark">Benchmark</a>
     •
-    <a href="#Publications">Publications</a>
+    <a href="#publications">Publications</a>
 </p>
 
 ## Summary
