@@ -105,4 +105,5 @@ Furthermore, most benchmark examples are covered in the provided integration tes
 
 ## Publications
 
+* [J. H. Boockmann and G. Lüttgen. Learning Data Structure Shapes from Memory Graphs. In 23rd International Conference on Logic for Programming, Artificial Intelligence and Reasoning (LPAR'23), pages 151–168. 2020.](https://easychair.org/publications/paper/mkjl)
 * [J. H. Boockmann and G. Lüttgen. Shape Inference from Memory Graphs (Extended Abstract). In 20. Kolloquium Programmiersprachen und Grundlagen der Programmierung (KPS'19), pages 69–71. 2019.](https://www.hb.dhbw-stuttgart.de/kps2019/kps2019_Tagungsband.pdf#page=69)
