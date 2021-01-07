@@ -4,7 +4,7 @@ bs4==0.0.1
 fire==0.2.1
 graphviz==0.13.2
 importlib-metadata==0.23
-lxml==4.4.2
+lxml==4.6.2
 more-itertools==7.2.0
 packaging==19.2
 pluggy==0.13.1
